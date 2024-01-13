@@ -2,4 +2,4 @@
 #define _MAIN_H_
 
 void _putchar(int c);
-#endifo
+#endif
