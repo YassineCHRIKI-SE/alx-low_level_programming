@@ -15,6 +15,7 @@ int main(int argc, char **argv)
 	int c;
 	int sum;
 	char *s;
+
 	sum = 0;
 	c = 0;
 	i = 1;
