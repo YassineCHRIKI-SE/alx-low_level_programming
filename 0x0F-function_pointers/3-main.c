@@ -14,7 +14,10 @@
 **/
 int main(int argc, char *argv[])
 {
-	int one, two, ans;
+	int on;
+	int two; 
+	int ans;
+	
 	int (*res)(int, int);
 	char *get_op;
 
